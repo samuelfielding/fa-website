@@ -61,9 +61,9 @@ canvas{
 /* ---- LOGO ---- */
 .logo {
   object-fit: contain;
-  min-width: 300px;
-  max-width: 300px;
-  max-height: 300px;
+  min-width: 150px;
+  max-width: 150px;
+  max-height: 150px;
   position: absolute;
   margin: 0;
   width: 50%;
